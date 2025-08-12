@@ -2,6 +2,7 @@ Primero debe ejecutarse el archivo M_PV_System_of_10kW:
 
 <img width="950" height="494" alt="image" src="https://github.com/user-attachments/assets/f3b8edbf-a862-446a-86de-27b3c62b63a1" />
 
+
 Despues ejecutar el S_PV_System_of_10kW para evaluar el controlador MPPT basado en logica difusa tipo Tsukamoto (TsuMPPT) y el basado en realimentacion de estados (SF-MPPT):
 
 <img width="1874" height="818" alt="image" src="https://github.com/user-attachments/assets/b6fcd972-693b-4a4c-a1f2-8d0a584a549e" />
