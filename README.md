@@ -7,7 +7,7 @@ Despues ejecutar el S_PV_System_of_10kW para evaluar el controlador MPPT basado 
 
 <img width="1874" height="818" alt="image" src="https://github.com/user-attachments/assets/b6fcd972-693b-4a4c-a1f2-8d0a584a549e" />
 
-Los archivos Tsukamoto_MPPT_in_F28069M_board ((suMPPT) y State-Feedback_MPPT_in_F28069M_board (SF-MPPT) son para implementarse en la tarjerta F28069M para fines de medición del tiempo de ejecución:
+Los archivos Tsukamoto_MPPT_in_F28069M_board (TsuMPPT) y State-Feedback_MPPT_in_F28069M_board (SF-MPPT) son para implementarse en la tarjerta F28069M para fines de medición del tiempo de ejecución:
 
 <img width="719" height="317" alt="image" src="https://github.com/user-attachments/assets/e3d2593d-a098-437b-83b7-fa35f270e014" />
 
